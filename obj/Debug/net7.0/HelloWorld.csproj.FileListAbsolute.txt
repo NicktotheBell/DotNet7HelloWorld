@@ -1,0 +1,15 @@
+/home/nicho/Dev/C#/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/nicho/Dev/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/nicho/Dev/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/nicho/Dev/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/nicho/Dev/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/nicho/Dev/C#/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
